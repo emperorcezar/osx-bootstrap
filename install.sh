@@ -51,8 +51,6 @@ source $source_dir/core/system.sh $1
 source $source_dir/core/brew.sh
 # install python
 source $source_dir/core/python.sh
-# install mysql
-source $source_dir/core/mysql.sh
 # install postgres
 source $source_dir/core/postgres.sh
 # install node/npm
